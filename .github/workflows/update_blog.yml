@@ -32,3 +32,5 @@ jobs:
 
       - name: Run script
         run: python scripts/update_blog.py
+
+        # 사용자 인증
