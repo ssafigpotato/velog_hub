@@ -34,3 +34,5 @@ jobs:
         run: python scripts/update_blog.py
 
         # 사용자 인증
+    permissions:
+      contents: write
